@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Lessons Learned: Lake Formation & Athena View Challenges with AWS Connect Data Lake"
 date:   2026-04-29 10:00:00 +0800
 categories: AWS Data Engineering
