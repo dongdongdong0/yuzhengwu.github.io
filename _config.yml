@@ -25,6 +25,7 @@ baseurl: "/yuzhengwu.github.io"
 url: "https://dongdongdong0.github.io"
 github_username: dongdongdong0
 header_pages: []
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 theme: jekyll-theme-architect
