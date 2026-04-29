@@ -24,6 +24,7 @@ description: 记录个人工作与技术成长
 baseurl: "/yuzhengwu.github.io"
 url: "https://dongdongdong0.github.io"
 github_username: dongdongdong0
+header_pages: []
 
 # Build settings
 theme: minima
