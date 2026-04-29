@@ -3,8 +3,11 @@ layout: default
 title: "About Me"
 ---
 
-Passionate about data engineering and cloud infrastructure.
-Currently working with AWS Connect, Kinesis, S3, Glue, and Athena.
+Hi, I'm **YuzhengWu** — an AWS-based cloud and data engineer. I created this blog to document the real technical challenges I run into at work and the solutions I've found, hoping it saves someone else a few hours of debugging.
+
+My work is focused on the data domain. On the AWS side, I regularly work with services including **Connect, Kinesis, Firehose, S3, Glue, Athena, Lake Formation, IAM, and RAM**. Beyond AWS, I also work with open-source tools across the modern data stack: **Kafka, Airflow, PySpark, Cassandra, Docker, Prometheus, and Grafana**.
+
+I came to the tech industry as a career changer — and I genuinely love it.
 
 ## Posts
 
