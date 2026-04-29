@@ -2,10 +2,6 @@
 layout: home
 ---
 
-# Hi, I'm Yuzhengwu
-
-Data Engineer | AWS | Python
-
 ## About Me
 
 Passionate about data engineering and cloud infrastructure.
