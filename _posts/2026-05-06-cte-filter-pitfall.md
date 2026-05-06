@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "A Subtle CTE Filtering Bug That Showed Wrong Scheduling Data in Power BI"
-date: 2026-05-06 10:00:00 +0800
+layout: default
+title:  "A Subtle CTE Filtering Bug That Showed Wrong Scheduling Data in Power BI"
+date:   2026-05-06 10:00:00 +0800
 categories: AWS Data Engineering
 ---
 
